@@ -10,7 +10,7 @@ This is a scientific calculator built using Python and Streamlit.
 - Degree/Radian mode
 
 ## 🌐 Live Demo
-[Click Here](hamza0972/scientific-calculator-streamlit)
+[Click Here]](https://huggingface.co/spaces/hamza0972/scientific-calculator-streamlit)
 
 ## 🛠️ Tech Stack
 - Python
